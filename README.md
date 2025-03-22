@@ -1,4 +1,4 @@
-# LLM-Scientific-Figures-Generator 📊🤖
+# LLM-Scientific-Figures-Generator 🧑‍💻📊
 
 ## Project Overview 📚
 
